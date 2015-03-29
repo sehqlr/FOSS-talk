@@ -67,18 +67,18 @@ ChooseALicense.com](http://choosealicence.com)
 OUTLINE
 
 1. What is FOSS?
-        1. A bit of history
+  1. A bit of history
 2. Licensing
-        1. Copyright and 1P
-        2. Copyleft v. Permissive
-        3. No licence?
+  1. Copyright and 1P
+  2. Copyleft v. Permissive
+  3. No licence?
 3. Why does it matter?
-        1. Web Dev: super important
-        2. Enterprise: MIT, BSD
-        3. Docker
-        4. MySQL versus FoundationDB
+  1. Web Dev: super important
+  2. Enterprise: MIT, BSD
+  3. Docker
+  4. MySQL versus FoundationDB
+
 Later stuff:
-        Node.js MIT
-        or
-        Python Python Lib
-        Java/Spring
+* Node.js MIT
+* Python Python Lib
+* Java/Spring
