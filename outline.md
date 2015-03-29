@@ -27,11 +27,11 @@ software? Can and should you be allowed to hack a Chromecast?
 
 Free Software grants these
 
-Freedom 0: The freedom to run the program for any purpose.
-Freedom 1: The freedom to study how the program works, and change it to make it
+* Freedom 0: The freedom to run the program for any purpose.
+* Freedom 1: The freedom to study how the program works, and change it to make it
 do what you wish.
-Freedom 2: The freedom to redistribute copies so you can help your neighbor.
-Freedom 3: The freedom to improve the program, and release your improvements
+* Freedom 2: The freedom to redistribute copies so you can help your neighbor.
+* Freedom 3: The freedom to improve the program, and release your improvements
 (and modified versions in general) to the public, so that the whole community
 benefits.
 
