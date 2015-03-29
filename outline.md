@@ -61,24 +61,22 @@ This is called "Open Source."
 ## How can I use FOSS technology in my career?
 A bit of History
 
-Licencing
-ChooseALicence.com
+[Choosing an OSS license doesn’t need to be scary -
+ChooseALicense.com](http://choosealicence.com)
 
 OUTLINE
 
-I. What is FOSS?
-        II. A bit of history
-
-III. Licensing
-        0. Copyright and IP
-        I. Copyleft v. Permissive
-        II. No licence?
-IV. Why does it matter?
-        I. Web Dev: super important
-        II. Enterprise: MIT, BSD
-        III. Docker
-        VI. MySQL versus FoundationDB
-
+1. What is FOSS?
+        1. A bit of history
+2. Licensing
+        1. Copyright and 1P
+        2. Copyleft v. Permissive
+        3. No licence?
+3. Why does it matter?
+        1. Web Dev: super important
+        2. Enterprise: MIT, BSD
+        3. Docker
+        4. MySQL versus FoundationDB
 Later stuff:
         Node.js MIT
         or
