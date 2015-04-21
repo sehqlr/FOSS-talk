@@ -2,6 +2,21 @@
 
 [Introduction Small Talk]
 
+How often do you use a computer? How often do you install new programs?
+How often do you accept the terms to a EULA without even reading it?
+
+Do you ever actually know what you actually agree to when you are signing your
+life away in an EULA? How many of you are lawyers? That's not what you are here
+for, is it? You are here to make software, and most people only want to use the
+apps that let them look for a date for tonight or Instagram their lonely dinner.
+
+The EULA, along with the set of intelectual properties laws currently in effect,
+is part of the set of rules and practices that govern the way that propritary
+software operates. And, these rules can change, over time or suddenly. They also
+differ in different courntries, depending upon their custome.
+However, this is not the only it has always worked, and, in many ways, it is not
+the preferred methodology.
+
 In this talk, I'm going to introduce you to the concepts, philosophy, and
 effects of free and open source software licencing and how this relates to you
 as you move forward with your code-writting careers.
