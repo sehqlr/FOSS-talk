@@ -1,21 +1,23 @@
 # FOSS: Licencing Innovation
 
-[Introduction Small Talk]
+## Introductory Small Talk
 
-How often do you use a computer? How often do you install new programs?
+## End User Licence Agreements
+
 How often do you accept the terms to a EULA without even reading it?
-
 Do you ever actually know what you actually agree to when you are signing your
 life away in an EULA? How many of you are lawyers? That's not what you are here
 for, is it? You are here to make software, and most people only want to use the
 apps that let them look for a date for tonight or Instagram their lonely dinner.
 
-The EULA, along with the set of intelectual properties laws currently in effect,
-is part of the set of rules and practices that govern the way that propritary
+The EULA, intelectual properties laws at large (such as DCMA) and 
+common practices such as DRM and data-locking, distributing files and programs
+in binary formats, all of these things form the set of rules and practices
+that define how properitary software
 software operates. And, these rules can change, over time or suddenly. They also
 differ in different courntries, depending upon their custome.
-However, this is not the only it has always worked, and, in many ways, it is not
-the preferred methodology.
+However, this is not the only it has always worked, and I would argue that this
+is no longer the preferred methodology in many cases.
 
 In this talk, I'm going to introduce you to the concepts, philosophy, and
 effects of free and open source software licencing and how this relates to you
@@ -32,19 +34,45 @@ philophies that believe that users have rights to the control over their
 computer systems, and a set of licences that govern those freedoms and
 responsibilties.
 
-These ideas are opposed to propietary, or closed-source
-software. Propietary software can be gratis or sold, and your rights and
-responsibilites are governed by EULAs, you know those long boring documents and
-you just click through? Does DCMA and DRM strike any bells?
-
 So the philosophic argument here is about what the users be allowed to do with
 software? Can and should you be allowed to hack a Chromecast? 
+
+### Early Days
+
+During in the mid-20th century, Ken Thompson and Dennis Richie developed UNIX, a
+propitary operating system for AT&T Bell Labs. Because AT&T wasn't allowed to
+get into the nontelephone business due to a 1958 legal agreement with the DOJ,
+they weren't able to monetize UNIX, and had the obligation to license out the
+software. Ken Thompson started sending out copies of the source code on request.
+
+Many of the early UNIX developers identified with the counterculture of the
+early 70's, and their sharing made an impact on UNIX itself. To quote Douglas
+Comer:
+> Many universities contributed to UNIX. At the University of Toronto, the
+> department acquired a 200-dot-per-inch printer/plotter and built software that
+> used the printer to simulate a phototypesetter. At Yale University, students
+> and computer scientists modified the UNIX shell. At Purdue University, the
+> Electrical Engineering Department made major improvements in performance,
+> producing a version of UNIX that supported a larger number of users. Purdue
+> also developed one of the first UNIX computer networks. At the University of
+> California at Berkeley, students developed a new shell and dozens of smaller
+> utilities. By the late 1970s, when Bell Labs released Version 7 UNIX, it was
+> clear that the system solved the computing problems of many departments, and
+> that it incorporated many of the ideas that had arisen in universities. The
+> end result was a strengthened system. A tide of ideas had started a new cycle,
+> flowing from academia to an industrial laboratory, back to academia, and
+> finally moving on to a growing number of commercial sites.
+
+### Free Software
+
+Free Software as a concept was pioneered by Dr. Richard M. Stallman in the early
+80's, and in many ways is foundational to the FOSS movement. 
 
 Free Software grants these
 
 * Freedom 0: The freedom to run the program for any purpose.
-* Freedom 1: The freedom to study how the program works, and change it to make it
-do what you wish.
+* Freedom 1: The freedom to study how the program works, and change it to make 
+it do what you wish.
 * Freedom 2: The freedom to redistribute copies so you can help your neighbor.
 * Freedom 3: The freedom to improve the program, and release your improvements
 (and modified versions in general) to the public, so that the whole community
@@ -60,12 +88,10 @@ This confusion has lead to this phrase that tries to clarify: "Free as in
 speech, not free as in beer." Another is to use Latin: "Libre" versus "Gratis."
 Naturally, if someone bought your software, and used Freedom 2 to redistrubute a
 copy freely to their neighbor, there goes your monetization strategy!
-So, the cost of Free Software would trend to 0 over time.
+So, the cost of Free Software will trend to 0 over time.
 
-Open Source Software 
+### Open Source Software 
 
-Free Software as a concept was invented by Dr. Richard M. Stallman in the early
-80's
 This is called "Open Source."
 
 
