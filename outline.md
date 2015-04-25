@@ -2,7 +2,7 @@
 
 ## Introductory Small Talk
 
-## End User Licence Agreements
+## End User License Agreements
 
 How often do you accept the terms to a EULA without even reading it?
 Do you ever actually know what you actually agree to when you are signing your
@@ -10,18 +10,18 @@ life away in an EULA? How many of you are lawyers? That's not what you are here
 for, is it? You are here to make software, and most people only want to use the
 apps that let them look for a date for tonight or Instagram their lonely dinner.
 
-The EULA, intelectual properties laws at large (such as DCMA) and 
+The EULA, intellectual properties laws at large (such as DMCA) and 
 common practices such as DRM and data-locking, distributing files and programs
 in binary formats, all of these things form the set of rules and practices
-that define how properitary software
+that define how proprietary software
 software operates. And, these rules can change, over time or suddenly. They also
-differ in different courntries, depending upon their custome.
+differ in different countries, depending upon their customs.
 However, this is not the only it has always worked, and I would argue that this
 is no longer the preferred methodology in many cases.
 
 In this talk, I'm going to introduce you to the concepts, philosophy, and
-effects of free and open source software licencing and how this relates to you
-as you move forward with your code-writting careers.
+effects of free and open source software licensing and how this relates to you
+as you move forward with your code-written careers.
 
 N.B. this topic can get quite political, philosophical, and personal. Therefore,
 these interpretations of the central ideas of the FOSS movement are my own, and
@@ -30,9 +30,9 @@ not endorsed by any organization.
 ## What is FOSS?
 
 FOSS means Free and Open Source Software. At it's core, it is a group of
-philophies that believe that users have rights to the control over their
-computer systems, and a set of licences that govern those freedoms and
-responsibilties.
+philosophers that believe that users have rights to the control over their
+computer systems, and a set of licenses that govern those freedoms and
+responsibilities.
 
 So the philosophic argument here is about what the users be allowed to do with
 software? Can and should you be allowed to hack a Chromecast? 
@@ -40,10 +40,11 @@ software? Can and should you be allowed to hack a Chromecast?
 ### Early Days
 
 During in the mid-20th century, Ken Thompson and Dennis Richie developed UNIX, a
-propitary operating system for AT&T Bell Labs. Because AT&T wasn't allowed to
-get into the nontelephone business due to a 1958 legal agreement with the DOJ,
-they weren't able to monetize UNIX, and had the obligation to license out the
-software. Ken Thompson started sending out copies of the source code on request.
+proprietary operating system for AT&T Bell Labs. Because AT&T wasn't allowed to
+get into the non-telephone business due to a 1958 legal agreement with the
+Department of Justice< , they weren't able to monetize UNIX, and had the 
+obligation to license out the software. Ken Thompson started sending out copies 
+of the source code on request.
 
 Many of the early UNIX developers identified with the counterculture of the
 early 70's, and their sharing made an impact on UNIX itself. To quote Douglas
@@ -90,20 +91,39 @@ Naturally, if someone bought your software, and used Freedom 2 to redistrubute a
 copy freely to their neighbor, there goes your monetization strategy!
 So, the cost of Free Software will trend to 0 over time.
 
+GNU/Linux
+Free Software Foundation (FSF)
+Debian
+
+GNU Public Licence
+
 ### Open Source Software 
 
-This is called "Open Source."
+As the Free Software Movement was adopted by more people, it does what ever any
+other passionate, philosophical groups do: splinter.
+In the late 90's, a group of people with disagreements with Stallman,
+not in the technical side of things, but rather in the legal and social site,
+decided to differenciate themselves with the term Open Source Software.
+Open Source Initiative (OSI)
 
-
-
+BSD Licence
+MIT License
+and so on
 
 ## How does FOSS 'Licence Innovation'?
 
 ## How can I use FOSS technology in my career?
-A bit of History
 
 [Choosing an OSS license doesn’t need to be scary -
 ChooseALicense.com](http://choosealicence.com)
+
+LAMP/LEMP/MEAN stacks
+Vagrant boxes and Docker comtainers
+Nearly every programming language that is used today (increasingly, even MS)
+Popular frameworks and DB systems are also FOSS
+
+Can a FOSS Licence be revoked? What are the consequences?
+Java 7 and Java 8
 
 OUTLINE
 
@@ -114,7 +134,7 @@ OUTLINE
   2. Copyleft v. Permissive
   3. No licence?
 3. Why does it matter?
-  1. Web Dev: super important
+  1. Web Dev: super important: List all the FOSS tech REIBB uses.
   2. Enterprise: MIT, BSD
   3. Docker
   4. MySQL versus FoundationDB
@@ -123,3 +143,8 @@ Later stuff:
 * Node.js MIT
 * Python Python Lib
 * Java/Spring
+
+NOTES TO SELF:
+Find a Word Perfect file, to demonstrate file format woes
+Dual Licencing
+
